@@ -1,4 +1,4 @@
-# Caesar Cipher 🔐
+## Caesar Cipher 🔐
 
 This is a simple Python implementation of the a classic encryption technique where each letter in the text is shifted by a certain number of positions in the alphabet.
 
