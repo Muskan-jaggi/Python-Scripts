@@ -1,14 +1,11 @@
 # Caesar Cipher 🔐
 
-This is a simple Python implementation of the Caesar Cipher, a classic encryption technique where each letter in the text is shifted by a certain number of positions in the alphabet.
+This is a simple Python implementation of the a classic encryption technique where each letter in the text is shifted by a certain number of positions in the alphabet.
 
 ## How It Works
 
 - You can **encode** (encrypt) or **decode** (decrypt) a message.
 - Input your message and the shift number, and the program will handle the rest.
-  
-### Example:
-Encrypting `hello` with a shift of `5` gives `mjqqt`. Decoding it with the same shift restores `hello`.
 
 ## How to Run
 
@@ -19,9 +16,6 @@ Encrypting `hello` with a shift of `5` gives `mjqqt`. Decoding it with the same 
     ```bash
     python caesar_cipher.py
     ```
-
 4. Follow the prompts to enter your message and shift number.
 
----
-
-This project is part of my progress in the _100 Days of Code: The Complete Python Pro Bootcamp_.
+This project is part of my progress in the **100 Days of Code: The Complete Python Pro Bootcamp.**
