@@ -1,13 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      Muskan
-#
-# Created:     27-12-2023
-# Copyright:   (c) Muskan 2023
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
 first = int(input("enter first number: "))
 second = int(input("enter second number: "))
 op = input("enter operator(+,-,*,/,%): ")
