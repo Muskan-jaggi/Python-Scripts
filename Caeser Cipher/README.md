@@ -12,10 +12,8 @@ This is a simple Python implementation of the a classic encryption technique whe
 1. Make sure Python is installed. 
 2. Download or clone the repo.
 3. In the terminal, run:
-
-    ```bash
-    python caesar_cipher.py
-    ```
+   **python caesar_cipher.py**
+    
 4. Follow the prompts to enter your message and shift number.
 
 This project is part of my progress in the **100 Days of Code: The Complete Python Pro Bootcamp.**
